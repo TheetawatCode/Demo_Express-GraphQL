@@ -1,0 +1,17 @@
+{
+  "name": "bebc2_day10_graphql",
+  "version": "1.0.0",
+  "main": "demo-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.9.0"
+  }
+}
