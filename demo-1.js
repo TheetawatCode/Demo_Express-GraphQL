@@ -31,3 +31,11 @@ app.use(
 app.listen(4000, () => {
     console.log("Running a GraphQL API server at <http://localhost:4000/graphql>");
 });
+
+/* Run ทดสอบที่ port 4000 at http://localhost:4000/graphql
+
+{
+    hello
+}
+
+*/
